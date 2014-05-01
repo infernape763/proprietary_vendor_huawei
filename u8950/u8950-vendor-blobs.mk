@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8950/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8950/proprietary/bin/thermald:system/bin/thermald \
     vendor/huawei/u8950/proprietary/bin/wlan_detect:system/bin/wlan_detect \
-    vendor/huawei/u8950proprietary/lib/libadc.so:system/lib/libadc.so \
+    vendor/huawei/u8950/proprietary/lib/libadc.so:system/lib/libadc.so \
     vendor/huawei/u8950/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/huawei/u8950/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8950/proprietary/lib/libcneapiclient.so:system/lib/libcneapiclient.so \
@@ -67,22 +67,14 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-51/nv_ext.bin:system/nv/MSM8X25_U8950-51/nv_ext.bin \
     vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-51/nv_ext_FTY.bin:system/nv/MSM8X25_U8950-51/nv_ext_FTY.bin \
     vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-1/nv_ext.bin:system/nv/MSM8X25_U8950-1/nv_ext.bin \
-    vendor/huawei/u8950/proprietary/nv/MSM8X25_U8951-1/nv_ext_FTY.bin:system/nv/MSM8X25_U8950-1/nv_ext_FTY.bin \
+    vendor/huawei/u8950/proprietary/nv/MSM8X25_U8950-1/nv_ext_FTY.bin:system/nv/MSM8X25_U8950-1/nv_ext_FTY.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/athtcmd_ram.bin:system/wifi/ath6k/athtcmd_ram.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/caldata.bin:system/wifi/ath6k/caldata.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_C8812E.bin:system/wifi/ath6k/caldata_MSM8X25_C8812E.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_C8812P.bin:system/wifi/ath6k/caldata_MSM8X25_C8812P.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_C8950.bin:system/wifi/ath6k/caldata_MSM8X25_C8950.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_C8825D.bin:system/wifi/ath6k/caldata_MSM8X25_C8825D.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_C8950D.bin:system/wifi/ath6k/caldata_MSM8X25_C8950D.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8950-1.bin:system/wifi/ath6k/caldata_MSM8X25_U8950-1.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8950-51.bin:system/wifi/ath6k/caldata_MSM8X25_U8950-51.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8950.bin:system/wifi/ath6k/caldata_MSM8X25_U8950.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8950D.bin:system/wifi/ath6k/caldata_MSM8X25_U8950D.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8951-1.bin:system/wifi/ath6k/caldata_MSM8X25_U8951-1.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8951-51.bin:system/wifi/ath6k/caldata_MSM8X25_U8951-51.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8951.bin:system/wifi/ath6k/caldata_MSM8X25_U8951.bin \
-    vendor/huawei/u8950/proprietary/wifi/ath6k/caldata_MSM8X25_U8951D.bin:system/wifi/ath6k/caldata_MSM8X25_U8951D.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/fw-3.bin:system/wifi/ath6k/fw-3.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/nullTestFlow.bin:system/wifi/ath6k/nullTestFlow.bin \
     vendor/huawei/u8950/proprietary/wifi/ath6k/softmac:system/wifi/ath6k/softmac \
